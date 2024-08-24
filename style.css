@@ -1,0 +1,23 @@
+.main button {
+  margin: 1em;
+  padding: 1em;
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+}
+
+.main h1 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+}
+
+.main div {
+  display: flex;
+  align-items: center;
+}
+
+.main div img {
+  margin: 1em;
+}
